@@ -1,25 +1,19 @@
 # Table of contents
 
-* [🎮 Начало игры (pigeonov)](README.md)
+* [👋 Приветствуем на Aeza.me!](README.md)
+* [📕 Правила проекта](pravila-proekta.md)
 
-## 💼 Политика <a href="#politics" id="politics"></a>
+## 🍪 Особенности проекта <a href="#politics" id="politics"></a>
 
-* [Государства](politics/governments.md)
-* [Нации](politics/nations.md)
-* [Войны](politics/voiny.md)
-* [Земли](politics/zemli.md)
+* [Фишки на всех серверах](politics/governments.md)
+* [Донат привилегии](politics/donat-privilegii.md)
+* [Команда проекта](politics/komanda-proekta.md)
+* [Аккаунт игрока](politics/nations.md)
+* [FAQ](politics/faq.md)
 
-## 🕹️ Механики <a href="#features" id="features"></a>
+## 🚨 Политический режим <a href="#features" id="features"></a>
 
-* [Page 1](features/page-1.md)
-
-## ⚙️ API
-
-* [v1](api/v1/README.md)
-  * [advancements](api/v1/advancements.md)
-  * [donates](api/v1/donates.md)
-  * [players](api/v1/players.md)
-  * [profiles](api/v1/profiles.md)
-  * [servers](api/v1/servers.md)
-  * [stats](api/v1/stats.md)
-* [v2](api/v2.md)
+* [Как играть?](features/kak-igrat.md)
+* [Ключевые особенности](features/klyuchevye-osobennosti.md)
+* [Основные команды](features/osnovnye-komandy.md)
+* [Экономика](features/ekonomika.md)
