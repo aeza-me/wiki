@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/2024-04-10_15.11.33 (1).png
-coverY: 129.66181818181818
+cover: .gitbook/assets/2024-07-15_18.58.30.png
+coverY: 0
 layout:
   cover:
     visible: true
