@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🎮 Начало игры](README.md)
+* [🎮 Начало игры (pigeonov)](README.md)
 
 ## 💼 Политика <a href="#politics" id="politics"></a>
 
