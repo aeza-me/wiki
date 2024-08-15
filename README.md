@@ -1,6 +1,6 @@
 ---
 cover: .gitbook/assets/2024-01-24_02.25.20.png
-coverY: 0
+coverY: 150.06545454545454
 layout:
   cover:
     visible: true
@@ -19,3 +19,4 @@ layout:
 
 # 👋 Приветствуем на Aeza.me!
 
+aergfsgdsfgfdgdfgfd
