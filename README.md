@@ -17,6 +17,5 @@ layout:
     visible: true
 ---
 
-# 👋 Приветствуем на Aeza.me!
+# 👋 Начало игры (pigeonov)
 
-aergfsgdsfgfdgdfgfd

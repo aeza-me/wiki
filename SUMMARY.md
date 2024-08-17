@@ -1,21 +1,21 @@
 # Table of contents
 
-* [👋 Приветствуем на Aeza.me!](README.md)
-* [🚑 Получение поддержки](poluchenie-podderzhki.md)
-* [📕 Правила проекта](pravila-proekta.md)
+* [👋 Начало игры (pigeonov)](README.md)
+* [🚑 Поддержка](support.md)
+* [📕 Правила проекта](rules.md)
 
-## 🍪 Особенности проекта <a href="#politics" id="politics"></a>
+## 🍪 Особенности проекта <a href="#features" id="features"></a>
 
-* [Фишки на всех серверах](politics/governments/README.md)
-  * [Игровой чат](politics/governments/igrovoi-chat.md)
-  * [Защита аккаунта](politics/governments/nations.md)
-* [Донат привилегии](politics/donat-privilegii.md)
-* [Команда проекта](politics/voiny.md)
-* [FAQ](politics/faq.md)
+* [Механики](features/mechanics/README.md)
+  * [Игровой чат](features/mechanics/chat.md)
+  * [Защита аккаунта](features/mechanics/security.md)
+* [Привилегии](features/donate.md)
+* [Команда проекта](features/team.md)
+* [F.A.Q.](features/faq.md)
 
-## 🚨 Политический режим <a href="#features" id="features"></a>
+## 🚨 Режим "Политика" <a href="#polit" id="polit"></a>
 
-* [Ключевые особенности](features/klyuchevye-osobennosti.md)
-* [Основные команды](features/page-1.md)
-* [Экономика](features/ekonomika.md)
-* [Как играть?](features/kak-igrat.md)
+* [Ключевые особенности](polit/features.md)
+* [Основные команды](polit/commands.md)
+* [Экономика](polit/economy.md)
+* [Как играть?](polit/how-to-play.md)
