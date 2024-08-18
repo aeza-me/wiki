@@ -3,7 +3,8 @@
 * [👋 Начало игры (pigeonov)](README.md)
 * [🚑 Поддержка](support.md)
 * [📕 Правила проекта](rules/README.md)
-  * [Page 1](rules/page-1.md)
+  * [1. Термины и определения](rules/1.-terminy-i-opredeleniya.md)
+  * [2. Общие положения](rules/2.-obshie-polozheniya.md)
 
 ## 🍪 Особенности проекта <a href="#features" id="features"></a>
 
