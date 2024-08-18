@@ -2,16 +2,14 @@
 
 * [👋 Начало игры (pigeonov)](README.md)
 * [🚑 Поддержка](support.md)
-* [📕 Правила проекта](rules/README.md)
-  * [1. Термины и определения](rules/1.-terminy-i-opredeleniya.md)
-  * [2. Общие положения](rules/2.-obshie-polozheniya.md)
+* [📕 Правила проекта](rules.md)
 
 ## 🍪 Особенности проекта <a href="#features" id="features"></a>
 
 * [Механики](features/mechanics/README.md)
   * [Игровой чат](features/mechanics/chat.md)
   * [Защита аккаунта](features/mechanics/security.md)
-* [Привилегии](features/donate.md)
+* [💰 Привилегии](features/donate.md)
 * [Команда проекта](features/team.md)
 * [F.A.Q.](features/faq.md)
 

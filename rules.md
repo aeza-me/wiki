@@ -2,9 +2,6 @@
 
 
 
-1. [Термины и определения](1.-terminy-i-opredeleniya.md)
-2. [Общие положения](2.-obshie-polozheniya.md)
-
 <details>
 
 <summary>Термины и определения</summary>
