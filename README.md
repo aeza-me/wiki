@@ -21,7 +21,7 @@ layout:
 
 ## Установка Java
 
-Заходим на сайт https://www.java.com/ru/ и устанавливаем Java для игры в Minecraft.&#x20;
+Заходим на сайт [https://www.java.com/ru/](https://www.java.com/ru/) и устанавливаем Java для игры в Minecraft.&#x20;
 
 Мы специально выбрали самый легкий путь для игры на нашем проекте!
 
